@@ -1,0 +1,35 @@
+.text{
+  font-family: 'Poppins';
+font-style: normal;
+/* font-weight: 600; */
+/* font-size: 15px; */
+
+/* line-height: 22px; */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.25px;
+text-transform: capitalize;
+}
+.num{
+  font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+/* font-size: 15px; */
+line-height: 22px;
+/* identical to box height */
+
+
+color: #0070CD;
+}
+.title{
+  font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+/* font-size: 8px; */
+line-height: 12px;
+/* identical to box height */
+
+
+color: #000000;
+}

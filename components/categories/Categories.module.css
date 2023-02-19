@@ -1,0 +1,33 @@
+.introParagraph {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  line-height: 20px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.25px;
+  line-height: 20px;
+}
+
+.category {
+  background: linear-gradient(180deg, #00457e 0%, #007fe9 100%);
+  border-radius: 12px;
+}
+
+.category img {
+  width: 100%;
+  height: 100%;
+}
+
+.category p {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 600;
+  line-height: 10px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  letter-spacing: 0.25px;
+  color: #ffffff;
+}

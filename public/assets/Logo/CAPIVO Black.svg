@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#4D4D4D;}
+	.st1{fill:#00D3FF;}
+	.st2{fill:#019DC0;}
+	.st3{fill:#027D98;}
+	.st4{fill:#FFFFFF;}
+	.st5{font-family:'Moonbeam';}
+	.st6{font-size:58px;}
+	.st7{fill:#CCCCCC;}
+	.st8{font-family:'MicrosoftTaiLe';}
+	.st9{font-size:10px;}
+</style>
+<g>
+	<rect width="512" height="512"/>
+</g>
+<rect x="649" y="237" class="st0" width="4" height="4"/>
+<g>
+	<g>
+		<polygon class="st1" points="134.4,219.9 144.8,230.3 123.4,251.7 145,273.3 134,284.3 101.9,252.2 		"/>
+		<polygon class="st2" points="134.4,219.9 112.5,241.7 123.4,251.7 144.8,230.3 		"/>
+		<polygon class="st3" points="116.1,238 112.5,241.7 123.4,251.7 		"/>
+	</g>
+	<g>
+		<polygon class="st1" points="376.6,284 366.3,273.7 387.5,252.6 366.2,231.3 377,220.4 408.7,252.1 		"/>
+		<polygon class="st2" points="376.6,284 398.3,262.5 387.5,252.6 366.3,273.7 		"/>
+		<polygon class="st3" points="394.6,266.1 398.3,262.5 387.4,252.6 		"/>
+	</g>
+	<text transform="matrix(1 0 0 1 156.2358 266.4834)" class="st4 st5 st6">CAPIVO</text>
+	<text transform="matrix(1 0 0 1 220.3335 292.333)" class="st7 st8 st9">Software House</text>
+</g>
+</svg>
