@@ -1,10 +1,14 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: true,
-<<<<<<< HEAD
+  target: 'experimental-serverless-trace',
+  trailingSlash: true,
+  exportPathMap: async function (defaultPathMap) {
+    return {
+      '/': { page: '/' },
+      '/about': { page: '/about' },
+      // Add any other pages you want to export
+    };
+  },
+  basePath: '/my-app',
 };
-=======
-}
->>>>>>> dadac863df6e36fc91b4196096ede5200653a0e7
-
-module.exports = nextConfig
+module.exports = nextConfig;
